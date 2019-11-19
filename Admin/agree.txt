@@ -1,0 +1,13 @@
+Welcome to Artful. A free to use social platform 
+dedicated to sharing and reviewing ideas. We at 
+Artful are a humble community comprised of you, 
+the users, and the moderation panel consisting of
+the Super admin who chooses admins to help closely
+monitor all posts and member sign ins.
+To become a member please enter an NID(National ID)
+belonging to you, you’re name, and finally a password
+consisting of atleast one character, one number and
+one symbol.
+If you accept these conditions then we happily welcome 
+you to Artful. Please be cooperative and nice to other 
+members in order to help make Artful a great platform.
